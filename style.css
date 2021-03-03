@@ -1,0 +1,95 @@
+.about_us .row{
+    background: #f9f9ff;
+}
+.about .part_2{
+
+}
+span {
+	display: inline-block;
+	font-size: 27px;
+	color: #6ab1fc;
+	font-weight: 600;
+}
+.jon_header .navbar-brand {
+	font-size: 25px;
+	font-weight: 500;
+}
+.jhon_header .
+.number-counter .row {
+	background: #8490ff;
+	padding: 45px 0;
+    color: white;
+}
+.number-counter .row {
+	background: #8490ff;
+	padding: 45px 0;
+    color: white;
+}
+/* Pricing table */
+.pricing-item {
+	background-color: #fff;
+	padding: 50px;
+	box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+	border-radius: 5px;
+}
+.pricing-item h1 {
+	padding-left: 144px;
+}
+.pricing-item h5 {
+	padding-left: 130px;
+	font-weight: 500;
+}
+.pricing-item p {
+	padding-left: 105px;
+	margin-top: -40px;
+	font-weight: 500;
+}
+.pricing-item ul {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 50px;
+	margin-bottom: 45px;
+}
+.pricing-item ul li {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	color: #777;
+	text-align: center;
+}
+.pricing-item ul li span {
+    color: #657be0;
+    font-size: 25px;
+    font-weight: bold;
+    width: 40px;
+    display: inline-block;
+}
+
+
+.pricing-item-button{}
+.pricing-item-button a {
+    border-color: #657be0;
+    border-width: 2px;
+    color: #657be0;
+    padding: 14px 30px;
+    font-size: 22px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+}
+/*  About Section  */
+.about-item {
+    margin-top: 90px;
+}
+.about-item .card{}
+.about-item .card img {
+    width: 125px;
+    height: auto;
+    margin-top: -70px;
+    margin-left: 15px;
+}
+
+/*  Conent Us CSS  */
+.contnt-form-div .card{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+    padding: 45px;
+}
+
